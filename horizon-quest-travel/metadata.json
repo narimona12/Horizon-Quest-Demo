@@ -1,0 +1,7 @@
+{
+  "name": "Horizon Quest Travel",
+  "description": "A premium, high-converting tour agency web application featuring immersive destination showcases and an AI-powered travel planning assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
